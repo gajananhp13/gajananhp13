@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 Eager to explore <br>💬 Ready for collaboration <br>🌱 I’m currently learning MERN Stack <br>⚡ Fun fact - Lazy but efficient in work
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2530bf6-003e-4525-9780-da77b8438266" />
 
 
 ## 🌐 Socials:

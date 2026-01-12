@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 Eager to explore <br>💬 Ready for collaboration <br>🌱 I’m currently learning MERN Stack <br>⚡ Fun fact - Lazy but efficient in work
 
+ 
 ![wmremove-transformed](https://github.com/user-attachments/assets/040545c0-2216-422e-ba56-ef3989ebc1a4)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2530bf6-003e-4525-9780-da77b8438266" />
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gajanan1113) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gajanan-patange-820498259) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28979857) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajananpatangepg@gmail.com) 

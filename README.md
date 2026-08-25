@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 Eager to explore <br>💬 Ready for collaboration <br>🌱 I’m currently learning MERN Stack <br>⚡ Fun fact - Lazy but efficient in work
 
  

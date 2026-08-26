@@ -2,8 +2,11 @@
 🔭 Eager to explore <br>💬 Ready for collaboration <br>🌱 I’m currently learning MERN Stack <br>⚡ Fun fact - Lazy but efficient in work
 
  
-![wmremove-transformed](https://github.com/user-attachments/assets/040545c0-2216-422e-ba56-ef3989ebc1a4)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="gajananhp13's GitHub profile" src="dark_mode.svg" />
+</picture>
  
 
 ## 🌐 Socials:
